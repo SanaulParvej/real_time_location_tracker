@@ -18,9 +18,6 @@ UI Design of my project:
 
 First Page
 ![Image](https://github.com/user-attachments/assets/8135c30d-1d15-4869-a26c-a510d0b36f56)
-
-<img src="https://github.com/user-attachments/assets/8135c30d-1d15-4869-a26c-a510d0b36f56" alt="Image" style="width: 400px; height: 250px;" />
-
 Second Page
 ![Image](https://github.com/user-attachments/assets/9514cdf2-a1d2-46ac-bc03-91d9c113d5e9)
 Thired Page
