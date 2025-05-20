@@ -17,13 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 UI Design of my project:
 
 First Page
-![Image](https://github.com/user-attachments/assets/8135c30d-1d15-4869-a26c-a510d0b36f56)
-Second Page
-![Image](https://github.com/user-attachments/assets/9514cdf2-a1d2-46ac-bc03-91d9c113d5e9)
-Thired Page
-![Image](https://github.com/user-attachments/assets/172db08e-41c4-49bc-bd1f-cdb44ab8778f)
-Forth Page
-![Image](https://github.com/user-attachments/assets/b6117e05-003e-427e-8f2b-41babdef209c)
-Fifth Page
-![Image](https://github.com/user-attachments/assets/22cffeda-1590-42d1-af76-4a0a166ac44f)
+<img src="https://github.com/user-attachments/assets/8135c30d-1d15-4869-a26c-a510d0b36f56" width="20%" />
 
+Second Page
+<img src="https://github.com/user-attachments/assets/9514cdf2-a1d2-46ac-bc03-91d9c113d5e9" width="20%" />
+
+Third Page
+<img src="https://github.com/user-attachments/assets/172db08e-41c4-49bc-bd1f-cdb44ab8778f" width="20%" />
+
+Fourth Page
+<img src="https://github.com/user-attachments/assets/b6117e05-003e-427e-8f2b-41babdef209c" width="20%" />
+
+Fifth Page
+<img src="https://github.com/user-attachments/assets/22cffeda-1590-42d1-af76-4a0a166ac44f" width="20%" />
